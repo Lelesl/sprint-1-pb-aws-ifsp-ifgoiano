@@ -52,4 +52,4 @@ Passo a passo para iniciar o projeto:
     - documentar detalhes sobre como a avaliação foi desenvolvida;
     - descrever as dificuldades conhecidas;
   - 🔨 fornecer o código fonte desenvolvido (Sugestão: pasta `src`);
-- O prazo de entrega é até às 12h do dia 27/11/2023 no repositório do github ([https://github.com/DerickCardoso/sprint-1-pb-aws-ifsp-ifgoiano](https://github.com/DerickCardoso/sprint-1-pb-aws-ifsp-ifgoiano)).
+- O prazo de entrega é até às 12h do dia 27/11/2023 no repositório do github ([https://github.com/Compass-pb-aws-2023-IFSP-IFGOIANO/sprint-1-pb-aws-ifsp-ifgoiano](https://github.com/Compass-pb-aws-2023-IFSP-IFGOIANO/sprint-1-pb-aws-ifsp-ifgoiano)).
